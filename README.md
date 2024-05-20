@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammedsadaf
-- 👀 I’m interested in codeing
-- 🌱 I’m currently learning full stack developer
+- 👀 I’m interested in codeing and cyber defences
+- 🌱 I’m currently learning full stack developer and cyber active
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ins
 
